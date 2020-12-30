@@ -8,7 +8,7 @@ Please note that for three fish species there are no occurrences in the test set
 
 ### Download dataset
 
-Link to dataset files: https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EclIEXKsnq9Al-jxjbwWKfIBsx7sGsu2sWvLyc2gnm_mog?e=1XqRIn
+Link to dataset files: https://tinyurl.com/FishCLEF-2015
 
 ### Citation
 
